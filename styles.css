@@ -443,6 +443,33 @@ input {
 .wrapper {
   display: none;
 }
+@media screen and (max-width: 1400px) {
+  h1 {
+    left: 340px;
+  }
+  .card1 {
+    left: 360px;
+  }
+  .card2 {
+    left: 607px;
+  }
+  .card3 {
+    left: 859px;
+  }
+  .rectangle {
+    left: 236px;
+  }
+  p {
+    left: 657px;
+  }
+  .form-container {
+    left: 332px;
+  }
+  .logo-footer {
+    width: 654px;
+  }
+}
+
 @media screen and (max-width: 510px) {
   body {
     margin: 0;
