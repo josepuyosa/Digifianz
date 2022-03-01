@@ -92,7 +92,7 @@ h1 {
   position: absolute;
   width: 732px;
   height: 180px;
-  left: 504px;
+  left: 564px;
   top: 170px;
   /* Header 1 */
   font-family: system-ui;
@@ -229,7 +229,7 @@ h3 {
   position: absolute;
   width: 206px;
   height: 299px;
-  left: 523px;
+  left: 583px;
   top: 728px;
 
   filter: drop-shadow(0px 0px 12px rgba(139, 95, 191, 0.6));
@@ -243,7 +243,7 @@ h3 {
   position: absolute;
   width: 207px;
   height: 299px;
-  left: 771px;
+  left: 831px;
   top: 728px;
 
   filter: drop-shadow(0px 0px 12px rgba(139, 95, 191, 0.6));
@@ -257,7 +257,7 @@ h3 {
   position: absolute;
   width: 206px;
   height: 299px;
-  left: 1020px;
+  left: 1080px;
   top: 728px;
 
   filter: drop-shadow(0px 0px 12px rgba(139, 95, 191, 0.6));
@@ -283,14 +283,14 @@ h3 {
   position: absolute;
   width: 362px;
   height: 362px;
-  left: 400px;
+  left: 460px;
   top: 1170px;
 }
 p {
   position: absolute;
   width: 539px;
   height: 135px;
-  left: 821px;
+  left: 881px;
   top: 1240px;
   color: #000;
   font-weight: 500;
@@ -314,7 +314,7 @@ p {
   position: absolute;
   width: 800px;
   height: 490px;
-  left: 494px;
+  left: 554px;
   top: 100px;
   background: #ffffff;
   box-shadow: 0px 4px 33px rgb(0 0 0 / 13%);
@@ -445,28 +445,31 @@ input {
 }
 @media screen and (max-width: 1400px) {
   h1 {
-    left: 340px;
+    left: 330px;
   }
   .card1 {
-    left: 360px;
+    left: 350px;
   }
   .card2 {
-    left: 607px;
+    left: 597px;
   }
   .card3 {
-    left: 859px;
+    left: 849px;
   }
   .rectangle {
-    left: 236px;
+    left: 226px;
   }
   p {
-    left: 657px;
+    left: 647px;
   }
   .form-container {
-    left: 332px;
+    left: 322px;
   }
   .logo-footer {
-    width: 654px;
+    width: 644px;
+  }
+  .popup {
+    left: 330px;
   }
 }
 
