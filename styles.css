@@ -445,31 +445,31 @@ input {
 }
 @media screen and (max-width: 1400px) {
   h1 {
-    left: 330px;
+    left: 315px;
   }
   .card1 {
-    left: 350px;
+    left: 335px;
   }
   .card2 {
-    left: 597px;
+    left: 582px;
   }
   .card3 {
-    left: 849px;
+    left: 834px;
   }
   .rectangle {
-    left: 226px;
+    left: 211px;
   }
   p {
-    left: 647px;
+    left: 632px;
   }
   .form-container {
-    left: 322px;
+    left: 307px;
   }
   .logo-footer {
-    width: 644px;
+    width: 629px;
   }
   .popup {
-    left: 330px;
+    left: 315px;
   }
 }
 
