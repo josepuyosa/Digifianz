@@ -443,7 +443,7 @@ input {
 .wrapper {
   display: none;
 }
-@media screen and (max-width: 460px) {
+@media screen and (max-width: 510px) {
   body {
     margin: 0;
     left: 22px;
@@ -468,7 +468,6 @@ input {
     opacity: 1;
   }
   .menu {
-    opacity: 1;
     cursor: pointer;
   }
   .nav-input:checked + .container-burguer-items {
@@ -480,7 +479,7 @@ input {
     top: 70px;
     background: #8b5fbf;
     clip-path: inset(0 0 0 0);
-    transition: clip-path 0.3s ease-in-out;
+    transition: clip-path 0.5s ease-in-out;
     z-index: 2;
   }
   .container-burguer-items {
@@ -491,7 +490,7 @@ input {
     left: -202px;
     top: 70px;
     background: #8b5fbf;
-    transition: 0.3s;
+    transition: 1s;
     clip-path: inset(0 0 0 100%);
     z-index: 2;
   }
@@ -662,5 +661,8 @@ input {
     font-size: 13px;
     display: flex;
     align-items: center;
+  }
+  .desktop {
+    display: none;
   }
 }
